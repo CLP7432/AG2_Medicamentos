@@ -1,0 +1,104 @@
+{
+  "medicamentos": [
+    {
+      "nombre": "paracetamol",
+      "nombre_comercial": "Paracetamol",
+      "dosis": "500-1000 mg cada 6-8 horas",
+      "indicaciones": "Fiebre y dolor leve a moderado",
+      "contraindicaciones": "Hepatopatía, alcoholismo, hipersensibilidad",
+      "efectos_secundarios": "Náuseas, daño hepático en sobredosis",
+      "presentaciones": "Tabletas, suspensión, supositorios",
+      "categoria": "Analgésico, Antipirético"
+    },
+    {
+      "nombre": "ibuprofeno",
+      "nombre_comercial": "Ibuprofeno",
+      "dosis": "400-600 mg cada 8 horas",
+      "indicaciones": "Dolor, inflamación, fiebre",
+      "contraindicaciones": "Úlcera gástrica, asma, insuficiencia renal",
+      "efectos_secundarios": "Gastritis, náuseas, mareos",
+      "presentaciones": "Tabletas, gel, suspensión",
+      "categoria": "Antiinflamatorio no esteroideo"
+    },
+    {
+      "nombre": "amoxicilina",
+      "nombre_comercial": "Amoxicilina",
+      "dosis": "500 mg cada 8 horas",
+      "indicaciones": "Infecciones bacterianas",
+      "contraindicaciones": "Hipersensibilidad a penicilinas",
+      "efectos_secundarios": "Diarrea, náuseas, erupciones cutáneas",
+      "presentaciones": "Cápsulas, suspensión, inyectable",
+      "categoria": "Antibiótico"
+    },
+    {
+      "nombre": "omeprazol",
+      "nombre_comercial": "Omeprazol",
+      "dosis": "20-40 mg al día",
+      "indicaciones": "Acidez, úlcera gástrica, reflujo",
+      "contraindicaciones": "Hipersensibilidad, cáncer gástrico",
+      "efectos_secundarios": "Dolor de cabeza, diarrea, náuseas",
+      "presentaciones": "Cápsulas, polvo para suspensión",
+      "categoria": "Inhibidor de bomba de protones"
+    },
+    {
+      "nombre": "loratadina",
+      "nombre_comercial": "Loratadina",
+      "dosis": "10 mg al día",
+      "indicaciones": "Alergias, rinitis, urticaria",
+      "contraindicaciones": "Hipersensibilidad, lactancia",
+      "efectos_secundarios": "Somnolencia, dolor de cabeza, sequedad bucal",
+      "presentaciones": "Tabletas, jarabe",
+      "categoria": "Antihistamínico"
+    },
+    {
+      "nombre": "metformina",
+      "nombre_comercial": "Metformina",
+      "dosis": "500-1000 mg cada 12 horas",
+      "indicaciones": "Diabetes tipo 2",
+      "contraindicaciones": "Insuficiencia renal, acidosis láctica",
+      "efectos_secundarios": "Diarrea, náuseas, dolor abdominal",
+      "presentaciones": "Tabletas, solución oral",
+      "categoria": "Antidiabético"
+    },
+    {
+      "nombre": "atorvastatina",
+      "nombre_comercial": "Atorvastatina",
+      "dosis": "10-80 mg al día",
+      "indicaciones": "Colesterol alto, prevención de eventos cardiovasculares",
+      "contraindicaciones": "Enfermedad hepática, embarazo",
+      "efectos_secundarios": "Dolor muscular, náuseas, estreñimiento",
+      "presentaciones": "Tabletas",
+      "categoria": "Estatinas"
+    },
+    {
+      "nombre": "salbutamol",
+      "nombre_comercial": "Salbutamol",
+      "dosis": "100-200 mcg cada 4-6 horas",
+      "indicaciones": "Asma, broncoespasmo",
+      "contraindicaciones": "Hipersensibilidad, taquicardia",
+      "efectos_secundarios": "Temblor, taquicardia, nerviosismo",
+      "presentaciones": "Inhalador, solución para nebulizar",
+      "categoria": "Broncodilatador"
+    },
+    {
+      "nombre": "losartan",
+      "nombre_comercial": "Losartan",
+      "dosis": "50-100 mg al día",
+      "indicaciones": "Hipertensión, protección renal en diabetes",
+      "contraindicaciones": "Embarazo, hipersensibilidad",
+      "efectos_secundarios": "Mareos, hipotensión, hiperkalemia",
+      "presentaciones": "Tabletas",
+      "categoria": "Antihipertensivo"
+    },
+    {
+      "nombre": "diazepam",
+      "nombre_comercial": "Diazepam",
+      "dosis": "2-10 mg cada 6-12 horas",
+      "indicaciones": "Ansiedad, espasmos musculares, abstinencia alcohólica",
+      "contraindicaciones": "Glaucoma, insuficiencia respiratoria, dependencia",
+      "efectos_secundarios": "Somnolencia, mareos, dependencia",
+      "presentaciones": "Tabletas, inyectable, gel",
+      "categoria": "Ansiolítico"
+    }
+  ]
+}

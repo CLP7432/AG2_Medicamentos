@@ -1,0 +1,31 @@
+name: medicamentos_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  image_picker: ^1.1.1
+  http: ^1.1.0
+  # TensorFlow Lite con null safety
+  tflite_flutter: ^0.12.1
+  image: ^4.0.17
+  camera: ^0.10.5+4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/modelo_medicamentos.tflite
+    - assets/labels.txt
+    - assets/medicamentos.json
