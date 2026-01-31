@@ -1,26 +1,6 @@
 {
   "medicamentos": [
     {
-      "nombre": "paracetamol",
-      "nombre_comercial": "Paracetamol",
-      "dosis": "500-1000 mg cada 6-8 horas",
-      "indicaciones": "Fiebre y dolor leve a moderado",
-      "contraindicaciones": "Hepatopatía, alcoholismo, hipersensibilidad",
-      "efectos_secundarios": "Náuseas, daño hepático en sobredosis",
-      "presentaciones": "Tabletas, suspensión, supositorios",
-      "categoria": "Analgésico, Antipirético"
-    },
-    {
-      "nombre": "ibuprofeno",
-      "nombre_comercial": "Ibuprofeno",
-      "dosis": "400-600 mg cada 8 horas",
-      "indicaciones": "Dolor, inflamación, fiebre",
-      "contraindicaciones": "Úlcera gástrica, asma, insuficiencia renal",
-      "efectos_secundarios": "Gastritis, náuseas, mareos",
-      "presentaciones": "Tabletas, gel, suspensión",
-      "categoria": "Antiinflamatorio no esteroideo"
-    },
-    {
       "nombre": "amoxicilina",
       "nombre_comercial": "Amoxicilina",
       "dosis": "500 mg cada 8 horas",
@@ -31,14 +11,34 @@
       "categoria": "Antibiótico"
     },
     {
-      "nombre": "omeprazol",
-      "nombre_comercial": "Omeprazol",
-      "dosis": "20-40 mg al día",
-      "indicaciones": "Acidez, úlcera gástrica, reflujo",
-      "contraindicaciones": "Hipersensibilidad, cáncer gástrico",
-      "efectos_secundarios": "Dolor de cabeza, diarrea, náuseas",
-      "presentaciones": "Cápsulas, polvo para suspensión",
-      "categoria": "Inhibidor de bomba de protones"
+      "nombre": "atorvastatina",
+      "nombre_comercial": "Atorvastatina",
+      "dosis": "10-80 mg al día",
+      "indicaciones": "Colesterol alto, prevención de eventos cardiovasculares",
+      "contraindicaciones": "Enfermedad hepática, embarazo",
+      "efectos_secundarios": "Dolor muscular, náuseas, estreñimiento",
+      "presentaciones": "Tabletas",
+      "categoria": "Estatina"
+    },
+    {
+      "nombre": "diazepam",
+      "nombre_comercial": "Diazepam",
+      "dosis": "2-10 mg cada 6-12 horas",
+      "indicaciones": "Ansiedad, espasmos musculares, abstinencia alcohólica",
+      "contraindicaciones": "Glaucoma, insuficiencia respiratoria, dependencia",
+      "efectos_secundarios": "Somnolencia, mareos, dependencia",
+      "presentaciones": "Tabletas, inyectable, gel",
+      "categoria": "Ansiolítico"
+    },
+    {
+      "nombre": "ibuprofeno",
+      "nombre_comercial": "Ibuprofeno",
+      "dosis": "400-600 mg cada 8 horas",
+      "indicaciones": "Dolor, inflamación, fiebre",
+      "contraindicaciones": "Úlcera gástrica, asma, insuficiencia renal",
+      "efectos_secundarios": "Gastritis, náuseas, mareos",
+      "presentaciones": "Tabletas, gel, suspensión",
+      "categoria": "AINE"
     },
     {
       "nombre": "loratadina",
@@ -61,14 +61,24 @@
       "categoria": "Antidiabético"
     },
     {
-      "nombre": "atorvastatina",
-      "nombre_comercial": "Atorvastatina",
-      "dosis": "10-80 mg al día",
-      "indicaciones": "Colesterol alto, prevención de eventos cardiovasculares",
-      "contraindicaciones": "Enfermedad hepática, embarazo",
-      "efectos_secundarios": "Dolor muscular, náuseas, estreñimiento",
-      "presentaciones": "Tabletas",
-      "categoria": "Estatinas"
+      "nombre": "omeprazol",
+      "nombre_comercial": "Omeprazol",
+      "dosis": "20-40 mg al día",
+      "indicaciones": "Acidez, úlcera gástrica, reflujo",
+      "contraindicaciones": "Hipersensibilidad, cáncer gástrico",
+      "efectos_secundarios": "Dolor de cabeza, diarrea, náuseas",
+      "presentaciones": "Cápsulas, polvo para suspensión",
+      "categoria": "IBP"
+    },
+    {
+      "nombre": "paracetamol",
+      "nombre_comercial": "Paracetamol",
+      "dosis": "500-1000 mg cada 6-8 horas",
+      "indicaciones": "Fiebre y dolor leve a moderado",
+      "contraindicaciones": "Hepatopatía, alcoholismo, hipersensibilidad",
+      "efectos_secundarios": "Náuseas, daño hepático en sobredosis",
+      "presentaciones": "Tabletas, suspensión, supositorios",
+      "categoria": "Analgésico, Antipirético"
     },
     {
       "nombre": "salbutamol",
@@ -81,24 +91,14 @@
       "categoria": "Broncodilatador"
     },
     {
-      "nombre": "losartan",
-      "nombre_comercial": "Losartan",
-      "dosis": "50-100 mg al día",
-      "indicaciones": "Hipertensión, protección renal en diabetes",
-      "contraindicaciones": "Embarazo, hipersensibilidad",
-      "efectos_secundarios": "Mareos, hipotensión, hiperkalemia",
-      "presentaciones": "Tabletas",
-      "categoria": "Antihipertensivo"
-    },
-    {
-      "nombre": "diazepam",
-      "nombre_comercial": "Diazepam",
-      "dosis": "2-10 mg cada 6-12 horas",
-      "indicaciones": "Ansiedad, espasmos musculares, abstinencia alcohólica",
-      "contraindicaciones": "Glaucoma, insuficiencia respiratoria, dependencia",
-      "efectos_secundarios": "Somnolencia, mareos, dependencia",
-      "presentaciones": "Tabletas, inyectable, gel",
-      "categoria": "Ansiolítico"
+      "nombre": "diclofenaco",
+      "nombre_comercial": "Diclofenaco",
+      "dosis": "50 mg cada 8 horas",
+      "indicaciones": "Dolor, inflamación",
+      "contraindicaciones": "Úlcera gástrica, insuficiencia renal",
+      "efectos_secundarios": "Gastritis, mareos, náuseas",
+      "presentaciones": "Tabletas, gel, inyectable",
+      "categoria": "AINE"
     }
   ]
 }

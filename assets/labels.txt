@@ -1,10 +1,10 @@
 0 amoxicilina
 1 atorvastatina
 2 diazepam
-3 ibuprofeno
-4 loratadina
-5 metformina
-6 omeprazol
-7 paracetamol
-8 salbutamol
-9 diclofenaco
+3 diclofenaco
+4 ibuprofeno
+5 loratadina
+6 metformina
+7 omeprazol
+8 paracetamol
+9 salbutamol
